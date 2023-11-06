@@ -1,67 +1,66 @@
 [
-    {
-      "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
-      "name": "ETH",
-      "symbol": "ETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-      "minBridge": "1000000000000000"
-    },
-    {
-      "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
-      "name": "Wrap ETH",
-      "symbol": "wETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-      "minBridge": "1000000000000000"
-    },
-    {
-      "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
-      "name": "USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-      "minBridge": "15000000"
-    },
-    {
-      "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
-      "name": "USDT",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "minBridge": "15000000"
-    },
-    {
-      "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
-      "name": "DAI Stablecoin",
-      "symbol": "dDAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
-      "minBridge": "15000000000000000000"
-    },
-    {
-      "address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
-      "name": "BNB",
-      "symbol": "BNB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
-      "minBridge": "100000000000000000"
-    },
-    {
-      "address": "0x442F7f22b1EE2c842bEAFf52880d4573E9201158",
-      "name": "Wrap BNB",
-      "symbol": "wBNB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.pn",
-      "minBridge": "5000000000000000000"
-    },
-    {
-      "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
-      "name": "Wrapped BTC",
-      "symbol": "wBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744",
-      "minBridge": "400000"
-    }
-  ]
-  
+  {
+    "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "minBridge": "1000000000000000"
+  },
+  {
+    "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+    "name": "Wrap ETH",
+    "symbol": "wETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "minBridge": "1000000000000000"
+  },
+  {
+    "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "minBridge": "15000000"
+  },
+  {
+    "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+    "name": "USDT",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "minBridge": "15000000"
+  },
+  {
+    "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+    "name": "DAI Stablecoin",
+    "symbol": "dDAI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "minBridge": "15000000000000000000"
+  },
+  {
+    "address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
+    "name": "BNB",
+    "symbol": "BNB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
+    "minBridge": "100000000000000000"
+  },
+  {
+    "address": "0x442F7f22b1EE2c842bEAFf52880d4573E9201158",
+    "name": "Wrap BNB",
+    "symbol": "wBNB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.pn",
+    "minBridge": "5000000000000000000"
+  },
+  {
+    "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+    "name": "Wrapped BTC",
+    "symbol": "wBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744",
+    "minBridge": "400000"
+  }
+]
